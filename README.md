@@ -1,8 +1,11 @@
 # VEngine 基于v2ray开发的VPN服务器软件
-  特点 
-    1.配置简单
-    2.支持自动tls+websocket配置
-    3.Web 管理页面方便用户管理
+### 特点 
++ 配置简单
+
++ 支持自动tls+websocket配置
+
++ Web 管理页面方便用户管理
+
 ### 操作系统支持
 + linux AMD64
 #### 其它系统未编译，有需要可以提[issue](https://github.com/vengine-admin/VEngine/issues)
@@ -27,9 +30,10 @@ vmess://eyJ2IjoiMiIsInBzIjoicnVmb3VzLnN1cGVyZWFzeS5tbC04YzBkM2E4ZSIsImFkZCI6InJ1
 
 Server Key : 44d128764293474ca4fedd99245cb7a7
 ```
-#### 3.粘帖vmess链接到你的[V2RayN(windows用户)](https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) V2RayX(mac 用户）配置
+#### 3.粘帖vmess链接到你的[V2RayN(windows用户)](https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) V2RayX(mac 用户），服务器配置中。现在可以科学上网了！
++ iOS,Android客户端，网上教程很多，这里不说了。。。
 
-##### Mac 用户的V2rayX 导入vmess链接以下流程
+### Mac 用户的V2rayX 导入vmess链接流程
 ###### 1.打开菜单 选择Configure
 ![](https://github.com/vengine-admin/VEngine/blob/master/v2rayx1.png "menu")
 
